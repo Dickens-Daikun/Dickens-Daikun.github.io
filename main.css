@@ -59,7 +59,7 @@ transform:rotate(-45deg);
 -webkit-transform:rotate(-45deg); /* Safari 和 Chrome */
 -o-transform:rotate(-45deg);   /* Opera */
 }
-a.shouchang, a.shangchuan
+a.links
 {
   text-align:center;
   color:#ffffff;
